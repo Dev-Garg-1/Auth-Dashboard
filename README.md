@@ -79,5 +79,5 @@ Admins can manage users, approve requests, and control access, while users can m
     npm run dev
     
     # Frontend
-    npm start
+    npm run dev
     ```
