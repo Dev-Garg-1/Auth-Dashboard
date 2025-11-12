@@ -81,15 +81,3 @@ Admins can manage users, approve requests, and control access, while users can m
     # Frontend
     npm start
     ```
-
----
-
-## 🖼️ ScreenShots
-
-1. **SignUp Form**
-
-3. **Login Form**
-
-4. **User panel**
-
-5. **Admin panel**
